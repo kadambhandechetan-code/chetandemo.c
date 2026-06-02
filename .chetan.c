@@ -1,11 +1,6 @@
-#include<stdio.h>
-int main()
-{
-    for (int i = 0; i <=100; i++)
-    {
-        printf("%d i love you \n",i);
+#include <stdio.h>
 
-    }
+int main() {
+    printf("Hello, GitHub!\n");
     return 0;
-
 }
