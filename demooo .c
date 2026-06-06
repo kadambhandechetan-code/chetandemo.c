@@ -1,0 +1,23 @@
+// Assignment 0
+// 1 write a c program add tow integers and display the result
+
+#include <stdio.h>
+  
+  int main(){
+  
+    int num1,num2, sum;
+    
+	printf("ENTER FRIST INTEGER :");
+    scanf("%d", &num1);
+    
+    printf("ENETR SECOND INTEGER :");
+    scanf("%d", &num2);
+    
+    sum = num1 + num2;
+    
+    printf("%d\n", sum);
+    
+    return 0;
+    
+    
+	}
