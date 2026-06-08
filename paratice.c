@@ -1,3 +1,5 @@
+//Assignment 0
+// 10 write a C program to input marks of five subjects, find total marks,and calculate the percentage.
 #include<stdio.h>
 
     int main()
