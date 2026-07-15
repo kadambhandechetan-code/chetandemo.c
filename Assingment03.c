@@ -1,3 +1,6 @@
+//write a program to find greatest of three numbers using nested if-else 
+
+
 #include<stdio.h>
 int main ()
 {
